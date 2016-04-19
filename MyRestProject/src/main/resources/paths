@@ -1,0 +1,6 @@
+http://localhost:8080/MyRestProject/office/getOfficeDetails/id
+
+http://localhost:8080/MyRestProject/office/getAll
+
+http://localhost:8080/MyRestProject/office/getAllOpen
+
